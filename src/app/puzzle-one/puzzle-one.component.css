@@ -1,0 +1,68 @@
+.puzzle-one img{
+    height: 600px;
+    width: 600px;
+}
+
+.puzzle-one__image {
+    position: relative;
+    display: inline-block;
+}
+
+.puzzle_one__cards {
+    position: relative;
+    top: -600px;
+    display: flex; 
+    flex-flow: row wrap;
+}
+
+
+.puzzle-one .square-1 {
+}
+
+.puzzle-one .square-2 {
+}
+
+.puzzle-one .square-3 {
+ 
+}
+
+.puzzle-one .square-4 {
+
+}
+
+.puzzle-one .square-5 {
+
+}
+
+.puzzle-one .square-6 {
+
+}
+.puzzle-one .square-7 {
+
+}
+
+.puzzle-one .square-8 {
+}
+
+.puzzle-one .square-9 {
+}
+
+.puzzle-one .square-10 {
+}
+
+.puzzle-one .square-11 {
+}
+.puzzle-one .square-12 {
+}
+
+.puzzle-one .square-13 {
+}
+
+.puzzle-one .square-14 {
+}
+
+.puzzle-one .square-15 {
+}
+
+.puzzle-one .square-16 {
+}

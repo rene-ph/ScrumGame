@@ -1,0 +1,12 @@
+.square {
+    height: 175px;
+    width: 175px;
+    background-color: beige;
+    border: 2px black solid;
+}
+
+.square__text {
+    position: relative;
+    top: 30%;
+    font-size: 40px;
+}
